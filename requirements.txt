@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision.transforms
+from torchvision import models
+from PIL import Image
+import pandas as pd
+import torch.nn.functional as F
+import plotly.express as px 
